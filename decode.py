@@ -1,7 +1,7 @@
 from pyzbar.pyzbar import decode
 from PIL import Image
 
-image_2 = Image.open('C:/Users/Dan/Desktop/qrcode/image2.png')
-matokeo = decode(image_2)
+img = Image.open('C:/Users/Dan/Desktop/qrcode/image6.png')
+matokeo = decode(img)
 print(matokeo)
 
