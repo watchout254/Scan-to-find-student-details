@@ -5,5 +5,6 @@ students enters their details, afterwards they can scan to see their details and
 
 
 ## After filling in necessary credentials it automatically Generates the QR CODE
+### Open Qr code scanner
 ![image6](https://github.com/watchout254/Scan-to-find-student-details/assets/88248852/68f18f78-d019-4167-818d-34e4dd01e751)
 
